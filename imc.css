@@ -1,0 +1,34 @@
+@charset "utf-8";
+
+body{
+    background-image: linear-gradient(to right, rgb(93, 93, 207), rgb(192, 122, 192)) ;
+}
+
+#titulo{
+    text-align: center;
+    font-size: 3em;
+    font-family: 'Times New Roman', Times, serif;
+}
+div{
+    text-align: center;
+    border-radius: 15px 15px 15px;
+    box-shadow: 2px 3px 4px  black;
+    background-color: aliceblue;
+    margin: auto;
+    width: 470px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-family: 'Bebas Neue', cursive;
+
+    
+}
+div#res{
+    padding-top: 10px;
+    background-color: black;
+    color: aliceblue;
+    margin-top: 7px;
+    border-radius: 1px 1px 1px;
+    box-shadow: 1px 1px 1px black;
+    font-family: 'Bebas Neue ', cursive;
+    font-size: 1.3em;
+}
